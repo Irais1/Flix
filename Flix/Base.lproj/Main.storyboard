@@ -47,14 +47,14 @@
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
-                                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="KIb-kb-YzG">
-                                                    <rect key="frame" x="0.0" y="0.0" width="124" height="174"/>
+                                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="71w-Tr-T0a">
+                                                    <rect key="frame" x="0.0" y="0.0" width="124" height="172"/>
                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 </imageView>
                                             </subviews>
                                         </tableViewCellContentView>
                                         <connections>
-                                            <outlet property="posterView" destination="IEX-jU-Wb0" id="HfD-CU-P1z"/>
+                                            <outlet property="posterView" destination="71w-Tr-T0a" id="jyf-Gy-pS2"/>
                                             <outlet property="synopsisLabel" destination="6T7-9b-nqn" id="j3T-Vd-p4j"/>
                                             <outlet property="titleLabel" destination="9lR-nb-3bn" id="X9f-Vd-7Ls"/>
                                         </connections>
